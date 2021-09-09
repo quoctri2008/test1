@@ -1,0 +1,3 @@
+// function funtionName (parameters) {
+//     code
+// }

@@ -1,0 +1,1 @@
+// BT1:cho 1 mảng gồm nhiều giá trị, viết chương trình loại bỏ falsy

@@ -1,0 +1,1 @@
+// Object.keys() -> trả về 1 mảng chứa tất cả các keys của object
